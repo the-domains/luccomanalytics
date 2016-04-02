@@ -1,0 +1,28 @@
+name: LuccomAnalytics
+favicon: null
+layout_spectrum: 0.8779701902531087
+typography_spectrum: 0.8926139636896551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9753625518642366
+  lightness: 0.9332793061621487
+  saturation: 0.18621142720803618
+  rhythmicContrast: 0.4969111066311598
+purpose: []
